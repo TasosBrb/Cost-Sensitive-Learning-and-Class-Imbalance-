@@ -1,4 +1,3 @@
-# Cost-Sensitive-Learning-and-Class-Imbalance-
 This project deals with two of the most important problems in data science. Cost sensitive learning and Class Imbalance
 
 
